@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for ens-offchain-resolver-read-from-api on 2024-09-20T19:56:21+08:00
+# fly.toml app configuration file generated for angpow-gateway on 2024-09-20T23:20:58+08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'ens-offchain-resolver-read-from-api'
+app = 'angpow-gateway'
 primary_region = 'sin'
 
 [build]
